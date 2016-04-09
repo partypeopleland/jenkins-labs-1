@@ -1,0 +1,11 @@
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Feed.Froogle\Views\FeedFroogle\Configure.cshtml
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Feed.Froogle\Description.txt
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Feed.Froogle\web.config
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Feed.Froogle\Content\styles.css
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Feed.Froogle\logo.jpg
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll.config
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.pdb
+C:\Art\Source\GitHub\jenkins-labs-1\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
+C:\Art\Source\GitHub\jenkins-labs-1\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb
+C:\Art\Source\GitHub\jenkins-labs-1\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.csprojResolveAssemblyReference.cache

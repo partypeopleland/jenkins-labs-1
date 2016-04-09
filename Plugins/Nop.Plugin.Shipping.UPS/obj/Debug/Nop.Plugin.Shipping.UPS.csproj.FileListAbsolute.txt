@@ -1,0 +1,10 @@
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.UPS\Views\ShippingUPS\Configure.cshtml
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.UPS\web.config
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.UPS\Description.txt
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.UPS\logo.jpg
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.dll.config
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.dll
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.pdb
+C:\Art\Source\GitHub\jenkins-labs-1\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.dll
+C:\Art\Source\GitHub\jenkins-labs-1\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.pdb
+C:\Art\Source\GitHub\jenkins-labs-1\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Tax.FixedRate\Description.txt
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Tax.FixedRate\web.config
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Tax.FixedRate\Views\TaxFixedRate\Configure.cshtml
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Tax.FixedRate\logo.jpg
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Tax.FixedRate.dll.config
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Tax.FixedRate.dll
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Tax.FixedRate.pdb
+C:\Art\Source\GitHub\jenkins-labs-1\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.csprojResolveAssemblyReference.cache
+C:\Art\Source\GitHub\jenkins-labs-1\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.dll
+C:\Art\Source\GitHub\jenkins-labs-1\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.pdb

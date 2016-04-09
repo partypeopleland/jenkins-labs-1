@@ -1,0 +1,13 @@
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\Configure.cshtml
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\EditPopup.cshtml
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\_CreateOrUpdate.cshtml
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\AddPopup.cshtml
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.ByWeight\web.config
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Description.txt
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.ByWeight\logo.jpg
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.dll.config
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.dll
+C:\Art\Source\GitHub\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.pdb
+C:\Art\Source\GitHub\jenkins-labs-1\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.dll
+C:\Art\Source\GitHub\jenkins-labs-1\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.pdb
+C:\Art\Source\GitHub\jenkins-labs-1\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.csprojResolveAssemblyReference.cache
