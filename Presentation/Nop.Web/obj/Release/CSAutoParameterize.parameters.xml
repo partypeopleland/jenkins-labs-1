@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="Nop.Data.NopObjectContext-Web.config Connection String" description="Nop.Data.NopObjectContext 應用程式在 web.config 中用來存取資料庫的連接字串。" defaultValue="Nop.Data.NopObjectContext_ConnectionString" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Art\\Source\\GitHub\\jenkins-labs-1\\Presentation\\Nop\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Nop.Data.NopObjectContext']/@connectionString" />
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Admin\\Source\\Repos\\jenkins-labs-1\\Presentation\\Nop\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Nop.Data.NopObjectContext']/@connectionString" />
   </parameter>
 </parameters>
